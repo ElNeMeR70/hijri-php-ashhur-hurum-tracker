@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hijri-php-ashhur-hurum-tracker",
+  "description": "Sacred Months (Al-Ashhur Al-Hurum) & Ayyam Al-Beed Alert Engine (متتبع الأشهر الحرم والأيام البيض والمواسم الفاضلة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
